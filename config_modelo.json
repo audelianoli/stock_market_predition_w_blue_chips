@@ -1,0 +1,23 @@
+{
+    "_comment": "Configurações Iniciais",
+    
+    "dataset": {
+        "filename": "dataset_concatenado.pkl",
+        "sequence_length": 20,
+        "horizon": 3
+        
+               },
+    
+    "training": {
+        "epochs": 10,
+        "loops": 10,
+        "batch_size": 50
+                },
+
+    "model": {
+        "save_dir": "saved_models",
+        "model_name": "TOPTOP",
+        "layers": ""
+             }
+   
+}
