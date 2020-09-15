@@ -2,6 +2,7 @@
     "_comment": "Configurações Iniciais",
     
     "dataset": {
+        "filepath": "C:/Users/auW10/Documents/CodigosDoAu/001_Portfolio_do_Au/dataset/",
         "filename": "dataset_concatenado.pkl",
         "sequence_length": 20,
         "horizon": 3
